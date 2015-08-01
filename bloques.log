@@ -1,0 +1,604 @@
+[INFO] 03:00:39:115 Filesystem/(1245:1245): 
+Bloques de gutenberg.txt en /:
+
+[INFO] 03:00:39:115 Filesystem/(1245:1245): Bloque de datos 1 en bloque 0 en nodo NODO2
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 1 en bloque 0 en nodo Nodo3
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 1 en bloque 0 en nodo Nodo4
+[INFO] 03:00:39:116 Filesystem/(1245:1245): 
+Bloques de linux.txt en /:
+
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 1 en bloque 0 en nodo NODO1
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 2 en bloque 1 en nodo NODO1
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 03:00:39:116 Filesystem/(1245:1245): Bloque de datos 2 en bloque 1 en nodo NODO2
+[INFO] 03:03:38:857 Filesystem/(1288:1288): 
+Bloques de gutenberg.txt en /:
+
+[INFO] 03:03:38:858 Filesystem/(1288:1288): Bloque de datos 1 en bloque 0 en nodo NODO2
+[INFO] 03:03:38:858 Filesystem/(1288:1288): Bloque de datos 1 en bloque 0 en nodo Nodo3
+[INFO] 03:03:38:858 Filesystem/(1288:1288): Bloque de datos 1 en bloque 0 en nodo Nodo4
+[INFO] 03:03:38:860 Filesystem/(1288:1288): 
+Bloques de linux.txt en /:
+
+[INFO] 03:03:38:863 Filesystem/(1288:1288): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 03:03:38:867 Filesystem/(1288:1288): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 03:03:38:873 Filesystem/(1288:1288): Bloque de datos 1 en bloque 0 en nodo NODO1
+[INFO] 03:03:38:874 Filesystem/(1288:1288): Bloque de datos 2 en bloque 1 en nodo NODO1
+[INFO] 03:03:38:875 Filesystem/(1288:1288): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 03:03:38:875 Filesystem/(1288:1288): Bloque de datos 2 en bloque 1 en nodo NODO2
+[INFO] 03:38:26:259 Filesystem/(1432:1432): 
+Bloques de linux.txt en /:
+
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 1 en bloque 0 en nodo Nodo1
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 1 en bloque 0 en nodo Nodo2
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 1 en bloque 0 en nodo Nodo4
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 2 en bloque 1 en nodo Nodo2
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 2 en bloque 0 en nodo Nodo3
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 2 en bloque 1 en nodo Nodo1
+[INFO] 03:38:26:259 Filesystem/(1432:1432): 
+Bloques de kernel.txt en /:
+
+[INFO] 03:38:26:259 Filesystem/(1432:1432): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 1 en bloque 2 en nodo Nodo1
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 2 en bloque 2 en nodo Nodo2
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 2 en bloque 2 en nodo Nodo3
+[INFO] 03:38:26:260 Filesystem/(1432:1432): 
+Bloques de gutenberg.txt en /:
+
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo1
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo2
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo4
+[INFO] 03:38:26:260 Filesystem/(1432:1432): 
+Bloques de tweet-1.csv en /:
+
+[INFO] 03:38:26:260 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo3
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo1
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo2
+[INFO] 03:38:26:261 Filesystem/(1432:1432): 
+Bloques de tweet-2.csv en /:
+
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo1
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo3
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo4
+[INFO] 03:38:26:261 Filesystem/(1432:1432): 
+Bloques de tweet-3.csv en /:
+
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo4
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo3
+[INFO] 03:38:26:261 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo2
+[INFO] 03:38:26:262 Filesystem/(1432:1432): 
+Bloques de tweet-4.csv en /:
+
+[INFO] 03:38:26:262 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo1
+[INFO] 03:38:26:262 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo2
+[INFO] 03:38:26:262 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo4
+[INFO] 03:38:26:262 Filesystem/(1432:1432): 
+Bloques de tweet-5.csv en /:
+
+[INFO] 03:38:26:262 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo1
+[INFO] 03:38:26:268 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo2
+[INFO] 03:38:26:270 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo3
+[INFO] 03:38:26:272 Filesystem/(1432:1432): 
+Bloques de tweet-6.csv en /:
+
+[INFO] 03:38:26:275 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo3
+[INFO] 03:38:26:277 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo1
+[INFO] 03:38:26:278 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo4
+[INFO] 03:38:26:281 Filesystem/(1432:1432): 
+Bloques de tweet-7.csv en /:
+
+[INFO] 03:38:26:282 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo4
+[INFO] 03:38:26:283 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo2
+[INFO] 03:38:26:285 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo3
+[INFO] 03:38:26:287 Filesystem/(1432:1432): 
+Bloques de tweet-8.csv en /:
+
+[INFO] 03:38:26:288 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo1
+[INFO] 03:38:26:289 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo2
+[INFO] 03:38:26:292 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo4
+[INFO] 03:38:26:293 Filesystem/(1432:1432): 
+Bloques de tweet-9.csv en /:
+
+[INFO] 03:38:26:295 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo3
+[INFO] 03:38:26:297 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo2
+[INFO] 03:38:26:299 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo1
+[INFO] 03:38:26:302 Filesystem/(1432:1432): 
+Bloques de tweet-10.csv en /:
+
+[INFO] 03:38:26:304 Filesystem/(1432:1432): Bloque de datos 1 en bloque 11 en nodo Nodo1
+[INFO] 03:38:26:306 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo3
+[INFO] 03:38:26:308 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo4
+[INFO] 03:41:08:28 Filesystem/(1432:1432): 
+Bloques de linux.txt en /:
+
+[INFO] 03:41:08:28 Filesystem/(1432:1432): Bloque de datos 1 en bloque 0 en nodo Nodo4
+[INFO] 03:41:08:28 Filesystem/(1432:1432): Bloque de datos 1 en bloque 0 en nodo Nodo2
+[INFO] 03:41:08:28 Filesystem/(1432:1432): Bloque de datos 1 en bloque 0 en nodo Nodo1
+[INFO] 03:41:08:28 Filesystem/(1432:1432): Bloque de datos 2 en bloque 1 en nodo Nodo2
+[INFO] 03:41:08:28 Filesystem/(1432:1432): Bloque de datos 2 en bloque 1 en nodo Nodo1
+[INFO] 03:41:08:28 Filesystem/(1432:1432): Bloque de datos 2 en bloque 0 en nodo Nodo3
+[INFO] 03:41:08:28 Filesystem/(1432:1432): 
+Bloques de kernel.txt en /:
+
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 1 en bloque 2 en nodo Nodo1
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 2 en bloque 2 en nodo Nodo2
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 2 en bloque 2 en nodo Nodo3
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 03:41:08:29 Filesystem/(1432:1432): 
+Bloques de gutenberg.txt en /:
+
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo4
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo2
+[INFO] 03:41:08:29 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo1
+[INFO] 03:41:08:30 Filesystem/(1432:1432): 
+Bloques de tweet-1.csv en /:
+
+[INFO] 03:41:08:30 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo2
+[INFO] 03:41:08:30 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo1
+[INFO] 03:41:08:30 Filesystem/(1432:1432): Bloque de datos 1 en bloque 3 en nodo Nodo3
+[INFO] 03:41:08:30 Filesystem/(1432:1432): 
+Bloques de tweet-2.csv en /:
+
+[INFO] 03:41:08:30 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo4
+[INFO] 03:41:08:30 Filesystem/(1432:1432): Bloque de datos 1 en bloque 4 en nodo Nodo3
+[INFO] 03:41:08:30 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo1
+[INFO] 03:41:08:33 Filesystem/(1432:1432): 
+Bloques de tweet-3.csv en /:
+
+[INFO] 03:41:08:35 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo2
+[INFO] 03:41:08:37 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo3
+[INFO] 03:41:08:38 Filesystem/(1432:1432): Bloque de datos 1 en bloque 5 en nodo Nodo4
+[INFO] 03:41:08:41 Filesystem/(1432:1432): 
+Bloques de tweet-4.csv en /:
+
+[INFO] 03:41:08:43 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo4
+[INFO] 03:41:08:44 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo2
+[INFO] 03:41:08:46 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo1
+[INFO] 03:41:08:50 Filesystem/(1432:1432): 
+Bloques de tweet-5.csv en /:
+
+[INFO] 03:41:08:51 Filesystem/(1432:1432): Bloque de datos 1 en bloque 6 en nodo Nodo3
+[INFO] 03:41:08:53 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo2
+[INFO] 03:41:08:55 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo1
+[INFO] 03:41:08:58 Filesystem/(1432:1432): 
+Bloques de tweet-6.csv en /:
+
+[INFO] 03:41:08:60 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo4
+[INFO] 03:41:08:61 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo1
+[INFO] 03:41:08:62 Filesystem/(1432:1432): Bloque de datos 1 en bloque 7 en nodo Nodo3
+[INFO] 03:41:08:65 Filesystem/(1432:1432): 
+Bloques de tweet-7.csv en /:
+
+[INFO] 03:41:08:67 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo3
+[INFO] 03:41:08:69 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo2
+[INFO] 03:41:08:70 Filesystem/(1432:1432): Bloque de datos 1 en bloque 8 en nodo Nodo4
+[INFO] 03:41:08:73 Filesystem/(1432:1432): 
+Bloques de tweet-8.csv en /:
+
+[INFO] 03:41:08:74 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo4
+[INFO] 03:41:08:76 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo2
+[INFO] 03:41:08:77 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo1
+[INFO] 03:41:08:79 Filesystem/(1432:1432): 
+Bloques de tweet-9.csv en /:
+
+[INFO] 03:41:08:80 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo1
+[INFO] 03:41:08:81 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo2
+[INFO] 03:41:08:83 Filesystem/(1432:1432): Bloque de datos 1 en bloque 9 en nodo Nodo3
+[INFO] 03:41:08:86 Filesystem/(1432:1432): 
+Bloques de tweet-10.csv en /:
+
+[INFO] 03:41:08:88 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo4
+[INFO] 03:41:08:90 Filesystem/(1432:1432): Bloque de datos 1 en bloque 10 en nodo Nodo3
+[INFO] 03:41:08:92 Filesystem/(1432:1432): Bloque de datos 1 en bloque 11 en nodo Nodo1
+[INFO] 03:41:08:94 Filesystem/(1432:1432): 
+Bloques de tweet-11.csv en /:
+
+[INFO] 03:41:08:96 Filesystem/(1432:1432): Bloque de datos 1 en bloque 11 en nodo Nodo3
+[INFO] 03:41:08:97 Filesystem/(1432:1432): Bloque de datos 1 en bloque 11 en nodo Nodo2
+[INFO] 03:41:08:99 Filesystem/(1432:1432): Bloque de datos 1 en bloque 11 en nodo Nodo4
+[INFO] 03:41:08:101 Filesystem/(1432:1432): 
+Bloques de tweet-12.csv en /:
+
+[INFO] 03:41:08:102 Filesystem/(1432:1432): Bloque de datos 1 en bloque 12 en nodo Nodo4
+[INFO] 03:41:08:104 Filesystem/(1432:1432): Bloque de datos 1 en bloque 12 en nodo Nodo2
+[INFO] 03:41:08:105 Filesystem/(1432:1432): Bloque de datos 1 en bloque 12 en nodo Nodo1
+[INFO] 03:41:08:108 Filesystem/(1432:1432): 
+Bloques de tweet-13.csv en /:
+
+[INFO] 03:41:08:109 Filesystem/(1432:1432): Bloque de datos 1 en bloque 13 en nodo Nodo1
+[INFO] 03:41:08:111 Filesystem/(1432:1432): Bloque de datos 1 en bloque 13 en nodo Nodo2
+[INFO] 03:41:08:112 Filesystem/(1432:1432): Bloque de datos 1 en bloque 12 en nodo Nodo3
+[INFO] 07:02:22:807 Filesystem/(1232:1232): 
+Bloques de kernel.txt en /mr/textos:
+
+[INFO] 07:02:22:833 Filesystem/(1232:1232): Bloque de datos 1 en bloque 0 en nodo Nodo2
+[INFO] 07:02:22:833 Filesystem/(1232:1232): Bloque de datos 1 en bloque 0 en nodo Nodo1
+[INFO] 07:02:22:833 Filesystem/(1232:1232): Bloque de datos 1 en bloque 0 en nodo Nodo3
+[INFO] 07:02:22:833 Filesystem/(1232:1232): Bloque de datos 2 en bloque 0 en nodo Nodo4
+[INFO] 07:02:22:833 Filesystem/(1232:1232): Bloque de datos 2 en bloque 1 en nodo Nodo1
+[INFO] 07:02:22:833 Filesystem/(1232:1232): Bloque de datos 2 en bloque 1 en nodo Nodo2
+[INFO] 07:02:22:834 Filesystem/(1232:1232): 
+Bloques de linux.txt en /mr/textos:
+
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 2 en nodo Nodo2
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 2 en bloque 2 en nodo Nodo3
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 2 en bloque 2 en nodo Nodo1
+[INFO] 07:02:22:834 Filesystem/(1232:1232): 
+Bloques de gutenberg.txt en /mr/textos:
+
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 3 en nodo Nodo1
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 3 en nodo Nodo2
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 3 en nodo Nodo3
+[INFO] 07:02:22:834 Filesystem/(1232:1232): 
+Bloques de tweet-1.csv en /sentiment:
+
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 4 en nodo Nodo2
+[INFO] 07:02:22:834 Filesystem/(1232:1232): Bloque de datos 1 en bloque 4 en nodo Nodo1
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 3 en nodo Nodo4
+[INFO] 07:02:22:835 Filesystem/(1232:1232): 
+Bloques de tweet-2.csv en /sentiment:
+
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 4 en nodo Nodo4
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 5 en nodo Nodo2
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 4 en nodo Nodo3
+[INFO] 07:02:22:835 Filesystem/(1232:1232): 
+Bloques de tweet-3.csv en /sentiment:
+
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 5 en nodo Nodo1
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 5 en nodo Nodo3
+[INFO] 07:02:22:835 Filesystem/(1232:1232): 
+Bloques de tweet-4.csv en /sentiment:
+
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 6 en nodo Nodo3
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 6 en nodo Nodo1
+[INFO] 07:02:22:835 Filesystem/(1232:1232): Bloque de datos 1 en bloque 6 en nodo Nodo2
+[INFO] 07:02:22:839 Filesystem/(1232:1232): 
+Bloques de tweet-5.csv en /sentiment:
+
+[INFO] 07:02:22:841 Filesystem/(1232:1232): Bloque de datos 1 en bloque 7 en nodo Nodo2
+[INFO] 07:02:22:842 Filesystem/(1232:1232): Bloque de datos 1 en bloque 7 en nodo Nodo1
+[INFO] 07:02:22:844 Filesystem/(1232:1232): Bloque de datos 1 en bloque 7 en nodo Nodo3
+[INFO] 07:02:22:847 Filesystem/(1232:1232): 
+Bloques de tweet-6.csv en /sentiment:
+
+[INFO] 07:02:22:849 Filesystem/(1232:1232): Bloque de datos 1 en bloque 8 en nodo Nodo3
+[INFO] 07:02:22:851 Filesystem/(1232:1232): Bloque de datos 1 en bloque 8 en nodo Nodo2
+[INFO] 07:02:22:852 Filesystem/(1232:1232): Bloque de datos 1 en bloque 8 en nodo Nodo1
+[INFO] 07:02:22:855 Filesystem/(1232:1232): 
+Bloques de tweet-7.csv en /sentiment:
+
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 9 en nodo Nodo1
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 9 en nodo Nodo2
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 9 en nodo Nodo3
+[INFO] 07:02:22:861 Filesystem/(1232:1232): 
+Bloques de tweet-8.csv en /sentiment:
+
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 10 en nodo Nodo3
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 10 en nodo Nodo2
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 10 en nodo Nodo1
+[INFO] 07:02:22:861 Filesystem/(1232:1232): 
+Bloques de tweet-9.csv en /sentiment:
+
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 11 en nodo Nodo1
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 11 en nodo Nodo2
+[INFO] 07:02:22:861 Filesystem/(1232:1232): Bloque de datos 1 en bloque 11 en nodo Nodo3
+[INFO] 07:02:22:861 Filesystem/(1232:1232): 
+Bloques de tweet-10.csv en /sentiment:
+
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 12 en nodo Nodo3
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 12 en nodo Nodo2
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 12 en nodo Nodo1
+[INFO] 07:02:22:862 Filesystem/(1232:1232): 
+Bloques de tweet-11.csv en /sentiment:
+
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 13 en nodo Nodo2
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 13 en nodo Nodo1
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 13 en nodo Nodo3
+[INFO] 07:02:22:862 Filesystem/(1232:1232): 
+Bloques de tweet-12.csv en /sentiment:
+
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 14 en nodo Nodo3
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 14 en nodo Nodo1
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 14 en nodo Nodo2
+[INFO] 07:02:22:862 Filesystem/(1232:1232): 
+Bloques de tweet-13.csv en /sentiment:
+
+[INFO] 07:02:22:862 Filesystem/(1232:1232): Bloque de datos 1 en bloque 15 en nodo Nodo2
+[INFO] 07:02:22:863 Filesystem/(1232:1232): Bloque de datos 1 en bloque 15 en nodo Nodo1
+[INFO] 07:02:22:863 Filesystem/(1232:1232): Bloque de datos 1 en bloque 15 en nodo Nodo3
+[INFO] 07:06:54:431 Filesystem/(1629:1629): 
+Bloques de kernel.txt en /mr/textos:
+
+[INFO] 07:06:54:432 Filesystem/(1629:1629): Bloque de datos 1 en bloque 0 en nodo Nodo3
+[INFO] 07:06:54:432 Filesystem/(1629:1629): Bloque de datos 1 en bloque 0 en nodo Nodo1
+[INFO] 07:06:54:433 Filesystem/(1629:1629): Bloque de datos 1 en bloque 0 en nodo Nodo2
+[INFO] 07:06:54:433 Filesystem/(1629:1629): Bloque de datos 2 en bloque 0 en nodo Nodo4
+[INFO] 07:06:54:433 Filesystem/(1629:1629): Bloque de datos 2 en bloque 1 en nodo Nodo2
+[INFO] 07:06:54:433 Filesystem/(1629:1629): Bloque de datos 2 en bloque 1 en nodo Nodo1
+[INFO] 07:06:54:434 Filesystem/(1629:1629): 
+Bloques de linux.txt en /mr/textos:
+
+[INFO] 07:06:54:434 Filesystem/(1629:1629): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 07:06:54:434 Filesystem/(1629:1629): Bloque de datos 1 en bloque 2 en nodo Nodo2
+[INFO] 07:06:54:434 Filesystem/(1629:1629): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 07:06:54:434 Filesystem/(1629:1629): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 07:06:54:435 Filesystem/(1629:1629): Bloque de datos 2 en bloque 2 en nodo Nodo1
+[INFO] 07:06:54:435 Filesystem/(1629:1629): Bloque de datos 2 en bloque 2 en nodo Nodo3
+[INFO] 07:06:54:435 Filesystem/(1629:1629): 
+Bloques de gutenberg.txt en /mr/textos:
+
+[INFO] 07:06:54:442 Filesystem/(1629:1629): Bloque de datos 1 en bloque 3 en nodo Nodo3
+[INFO] 07:06:54:447 Filesystem/(1629:1629): Bloque de datos 1 en bloque 3 en nodo Nodo2
+[INFO] 07:06:54:450 Filesystem/(1629:1629): Bloque de datos 1 en bloque 3 en nodo Nodo1
+[INFO] 07:06:54:453 Filesystem/(1629:1629): 
+Bloques de tweet-1.csv en /sentiment:
+
+[INFO] 07:06:54:453 Filesystem/(1629:1629): Bloque de datos 1 en bloque 3 en nodo Nodo4
+[INFO] 07:06:54:453 Filesystem/(1629:1629): Bloque de datos 1 en bloque 4 en nodo Nodo1
+[INFO] 07:06:54:454 Filesystem/(1629:1629): Bloque de datos 1 en bloque 4 en nodo Nodo2
+[INFO] 07:06:54:454 Filesystem/(1629:1629): 
+Bloques de tweet-2.csv en /sentiment:
+
+[INFO] 07:06:54:454 Filesystem/(1629:1629): Bloque de datos 1 en bloque 4 en nodo Nodo3
+[INFO] 07:06:54:454 Filesystem/(1629:1629): Bloque de datos 1 en bloque 5 en nodo Nodo2
+[INFO] 07:06:54:454 Filesystem/(1629:1629): Bloque de datos 1 en bloque 4 en nodo Nodo4
+[INFO] 07:06:54:454 Filesystem/(1629:1629): 
+Bloques de tweet-3.csv en /sentiment:
+
+[INFO] 07:06:54:454 Filesystem/(1629:1629): Bloque de datos 1 en bloque 5 en nodo Nodo3
+[INFO] 07:06:54:454 Filesystem/(1629:1629): Bloque de datos 1 en bloque 5 en nodo Nodo1
+[INFO] 07:06:54:454 Filesystem/(1629:1629): 
+Bloques de tweet-4.csv en /sentiment:
+
+[INFO] 07:06:54:455 Filesystem/(1629:1629): Bloque de datos 1 en bloque 6 en nodo Nodo2
+[INFO] 07:06:54:455 Filesystem/(1629:1629): Bloque de datos 1 en bloque 6 en nodo Nodo1
+[INFO] 07:06:54:455 Filesystem/(1629:1629): Bloque de datos 1 en bloque 6 en nodo Nodo3
+[INFO] 07:06:54:455 Filesystem/(1629:1629): 
+Bloques de tweet-5.csv en /sentiment:
+
+[INFO] 07:06:54:455 Filesystem/(1629:1629): Bloque de datos 1 en bloque 7 en nodo Nodo3
+[INFO] 07:06:54:455 Filesystem/(1629:1629): Bloque de datos 1 en bloque 7 en nodo Nodo1
+[INFO] 07:06:54:455 Filesystem/(1629:1629): Bloque de datos 1 en bloque 7 en nodo Nodo2
+[INFO] 07:06:54:462 Filesystem/(1629:1629): 
+Bloques de tweet-6.csv en /sentiment:
+
+[INFO] 07:06:54:465 Filesystem/(1629:1629): Bloque de datos 1 en bloque 8 en nodo Nodo1
+[INFO] 07:06:54:469 Filesystem/(1629:1629): Bloque de datos 1 en bloque 8 en nodo Nodo2
+[INFO] 07:06:54:472 Filesystem/(1629:1629): Bloque de datos 1 en bloque 8 en nodo Nodo3
+[INFO] 07:06:54:476 Filesystem/(1629:1629): 
+Bloques de tweet-7.csv en /sentiment:
+
+[INFO] 07:06:54:478 Filesystem/(1629:1629): Bloque de datos 1 en bloque 9 en nodo Nodo3
+[INFO] 07:06:54:480 Filesystem/(1629:1629): Bloque de datos 1 en bloque 9 en nodo Nodo2
+[INFO] 07:06:54:481 Filesystem/(1629:1629): Bloque de datos 1 en bloque 9 en nodo Nodo1
+[INFO] 07:06:54:484 Filesystem/(1629:1629): 
+Bloques de tweet-8.csv en /sentiment:
+
+[INFO] 07:06:54:486 Filesystem/(1629:1629): Bloque de datos 1 en bloque 10 en nodo Nodo1
+[INFO] 07:06:54:487 Filesystem/(1629:1629): Bloque de datos 1 en bloque 10 en nodo Nodo2
+[INFO] 07:06:54:489 Filesystem/(1629:1629): Bloque de datos 1 en bloque 10 en nodo Nodo3
+[INFO] 07:06:54:492 Filesystem/(1629:1629): 
+Bloques de tweet-9.csv en /sentiment:
+
+[INFO] 07:06:54:493 Filesystem/(1629:1629): Bloque de datos 1 en bloque 11 en nodo Nodo3
+[INFO] 07:06:54:495 Filesystem/(1629:1629): Bloque de datos 1 en bloque 11 en nodo Nodo2
+[INFO] 07:06:54:496 Filesystem/(1629:1629): Bloque de datos 1 en bloque 11 en nodo Nodo1
+[INFO] 07:06:54:498 Filesystem/(1629:1629): 
+Bloques de tweet-10.csv en /sentiment:
+
+[INFO] 07:06:54:499 Filesystem/(1629:1629): Bloque de datos 1 en bloque 12 en nodo Nodo1
+[INFO] 07:06:54:501 Filesystem/(1629:1629): Bloque de datos 1 en bloque 12 en nodo Nodo2
+[INFO] 07:06:54:503 Filesystem/(1629:1629): Bloque de datos 1 en bloque 12 en nodo Nodo3
+[INFO] 07:06:54:505 Filesystem/(1629:1629): 
+Bloques de tweet-11.csv en /sentiment:
+
+[INFO] 07:06:54:506 Filesystem/(1629:1629): Bloque de datos 1 en bloque 13 en nodo Nodo3
+[INFO] 07:06:54:507 Filesystem/(1629:1629): Bloque de datos 1 en bloque 13 en nodo Nodo1
+[INFO] 07:06:54:509 Filesystem/(1629:1629): Bloque de datos 1 en bloque 13 en nodo Nodo2
+[INFO] 07:06:54:511 Filesystem/(1629:1629): 
+Bloques de tweet-12.csv en /sentiment:
+
+[INFO] 07:06:54:512 Filesystem/(1629:1629): Bloque de datos 1 en bloque 14 en nodo Nodo2
+[INFO] 07:06:54:513 Filesystem/(1629:1629): Bloque de datos 1 en bloque 14 en nodo Nodo1
+[INFO] 07:06:54:515 Filesystem/(1629:1629): Bloque de datos 1 en bloque 14 en nodo Nodo3
+[INFO] 07:06:54:517 Filesystem/(1629:1629): 
+Bloques de tweet-13.csv en /sentiment:
+
+[INFO] 07:06:54:519 Filesystem/(1629:1629): Bloque de datos 1 en bloque 15 en nodo Nodo3
+[INFO] 07:06:54:521 Filesystem/(1629:1629): Bloque de datos 1 en bloque 15 en nodo Nodo1
+[INFO] 07:06:54:522 Filesystem/(1629:1629): Bloque de datos 1 en bloque 15 en nodo Nodo2
+[INFO] 07:14:28:69 Filesystem/(1672:1672): 
+Bloques de kernel.txt en /mr/textos:
+
+[INFO] 07:14:28:178 Filesystem/(1672:1672): Bloque de datos 1 en bloque 0 en nodo Nodo2
+[INFO] 07:14:28:179 Filesystem/(1672:1672): Bloque de datos 1 en bloque 0 en nodo Nodo1
+[INFO] 07:14:28:180 Filesystem/(1672:1672): Bloque de datos 1 en bloque 0 en nodo Nodo3
+[INFO] 07:14:28:182 Filesystem/(1672:1672): Bloque de datos 2 en bloque 0 en nodo Nodo4
+[INFO] 07:14:28:188 Filesystem/(1672:1672): Bloque de datos 2 en bloque 1 en nodo Nodo1
+[INFO] 07:14:28:189 Filesystem/(1672:1672): Bloque de datos 2 en bloque 1 en nodo Nodo2
+[INFO] 07:14:28:191 Filesystem/(1672:1672): 
+Bloques de linux.txt en /mr/textos:
+
+[INFO] 07:14:28:193 Filesystem/(1672:1672): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 07:14:28:195 Filesystem/(1672:1672): Bloque de datos 1 en bloque 2 en nodo Nodo2
+[INFO] 07:14:28:196 Filesystem/(1672:1672): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 07:14:28:197 Filesystem/(1672:1672): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 07:14:28:199 Filesystem/(1672:1672): Bloque de datos 2 en bloque 2 en nodo Nodo3
+[INFO] 07:14:28:200 Filesystem/(1672:1672): Bloque de datos 2 en bloque 2 en nodo Nodo1
+[INFO] 07:14:28:208 Filesystem/(1672:1672): 
+Bloques de gutenberg.txt en /mr/textos:
+
+[INFO] 07:14:28:209 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo1
+[INFO] 07:14:28:210 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo2
+[INFO] 07:14:28:212 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo3
+[INFO] 07:14:28:214 Filesystem/(1672:1672): 
+Bloques de tweet-1.csv en /sentiment:
+
+[INFO] 07:14:28:215 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo2
+[INFO] 07:14:28:216 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo1
+[INFO] 07:14:28:217 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo4
+[INFO] 07:14:28:220 Filesystem/(1672:1672): 
+Bloques de tweet-2.csv en /sentiment:
+
+[INFO] 07:14:28:228 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo4
+[INFO] 07:14:28:229 Filesystem/(1672:1672): Bloque de datos 1 en bloque 5 en nodo Nodo2
+[INFO] 07:14:28:231 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo3
+[INFO] 07:14:28:233 Filesystem/(1672:1672): 
+Bloques de tweet-3.csv en /sentiment:
+
+[INFO] 07:14:28:234 Filesystem/(1672:1672): Bloque de datos 1 en bloque 5 en nodo Nodo1
+[INFO] 07:14:28:236 Filesystem/(1672:1672): Bloque de datos 1 en bloque 5 en nodo Nodo3
+[INFO] 07:14:28:239 Filesystem/(1672:1672): 
+Bloques de tweet-4.csv en /sentiment:
+
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 6 en nodo Nodo3
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 6 en nodo Nodo1
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 6 en nodo Nodo2
+[INFO] 07:14:28:239 Filesystem/(1672:1672): 
+Bloques de tweet-5.csv en /sentiment:
+
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 7 en nodo Nodo2
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 7 en nodo Nodo1
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 7 en nodo Nodo3
+[INFO] 07:14:28:239 Filesystem/(1672:1672): 
+Bloques de tweet-6.csv en /sentiment:
+
+[INFO] 07:14:28:239 Filesystem/(1672:1672): Bloque de datos 1 en bloque 8 en nodo Nodo3
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 8 en nodo Nodo2
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 8 en nodo Nodo1
+[INFO] 07:14:28:240 Filesystem/(1672:1672): 
+Bloques de tweet-7.csv en /sentiment:
+
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 9 en nodo Nodo1
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 9 en nodo Nodo2
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 9 en nodo Nodo3
+[INFO] 07:14:28:240 Filesystem/(1672:1672): 
+Bloques de tweet-8.csv en /sentiment:
+
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 10 en nodo Nodo3
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 10 en nodo Nodo2
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 10 en nodo Nodo1
+[INFO] 07:14:28:240 Filesystem/(1672:1672): 
+Bloques de tweet-9.csv en /sentiment:
+
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 11 en nodo Nodo1
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 11 en nodo Nodo2
+[INFO] 07:14:28:240 Filesystem/(1672:1672): Bloque de datos 1 en bloque 11 en nodo Nodo3
+[INFO] 07:14:28:241 Filesystem/(1672:1672): 
+Bloques de tweet-10.csv en /sentiment:
+
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 12 en nodo Nodo3
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 12 en nodo Nodo2
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 12 en nodo Nodo1
+[INFO] 07:14:28:241 Filesystem/(1672:1672): 
+Bloques de tweet-11.csv en /sentiment:
+
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 13 en nodo Nodo2
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 13 en nodo Nodo1
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 13 en nodo Nodo3
+[INFO] 07:14:28:241 Filesystem/(1672:1672): 
+Bloques de tweet-12.csv en /sentiment:
+
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 14 en nodo Nodo3
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 14 en nodo Nodo1
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 14 en nodo Nodo2
+[INFO] 07:14:28:241 Filesystem/(1672:1672): 
+Bloques de tweet-13.csv en /sentiment:
+
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 15 en nodo Nodo2
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 15 en nodo Nodo1
+[INFO] 07:14:28:241 Filesystem/(1672:1672): Bloque de datos 1 en bloque 15 en nodo Nodo3
+[INFO] 07:14:53:738 Filesystem/(1672:1672): 
+Bloques de kernel.txt en /mr/textos:
+
+[INFO] 07:14:53:738 Filesystem/(1672:1672): Bloque de datos 1 en bloque 0 en nodo Nodo3
+[INFO] 07:14:53:738 Filesystem/(1672:1672): Bloque de datos 1 en bloque 0 en nodo Nodo1
+[INFO] 07:14:53:738 Filesystem/(1672:1672): Bloque de datos 2 en bloque 0 en nodo Nodo4
+[INFO] 07:14:53:738 Filesystem/(1672:1672): Bloque de datos 2 en bloque 1 en nodo Nodo1
+[INFO] 07:14:53:739 Filesystem/(1672:1672): 
+Bloques de linux.txt en /mr/textos:
+
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 1 en bloque 1 en nodo Nodo4
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 1 en bloque 1 en nodo Nodo3
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 2 en bloque 2 en nodo Nodo3
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 2 en bloque 2 en nodo Nodo4
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 2 en bloque 2 en nodo Nodo1
+[INFO] 07:14:53:739 Filesystem/(1672:1672): 
+Bloques de gutenberg.txt en /mr/textos:
+
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo3
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo1
+[INFO] 07:14:53:739 Filesystem/(1672:1672): 
+Bloques de tweet-1.csv en /sentiment:
+
+[INFO] 07:14:53:739 Filesystem/(1672:1672): Bloque de datos 1 en bloque 3 en nodo Nodo4
+[INFO] 07:14:53:742 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo1
+[INFO] 07:14:53:744 Filesystem/(1672:1672): 
+Bloques de tweet-2.csv en /sentiment:
+
+[INFO] 07:14:53:744 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo3
+[INFO] 07:14:53:744 Filesystem/(1672:1672): Bloque de datos 1 en bloque 4 en nodo Nodo4
+[INFO] 07:14:53:744 Filesystem/(1672:1672): 
+Bloques de tweet-3.csv en /sentiment:
+
+[INFO] 07:14:53:744 Filesystem/(1672:1672): Bloque de datos 1 en bloque 5 en nodo Nodo3
+[INFO] 07:14:53:744 Filesystem/(1672:1672): Bloque de datos 1 en bloque 5 en nodo Nodo1
+[INFO] 07:14:53:745 Filesystem/(1672:1672): 
+Bloques de tweet-4.csv en /sentiment:
+
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 6 en nodo Nodo1
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 6 en nodo Nodo3
+[INFO] 07:14:53:745 Filesystem/(1672:1672): 
+Bloques de tweet-5.csv en /sentiment:
+
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 7 en nodo Nodo3
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 7 en nodo Nodo1
+[INFO] 07:14:53:745 Filesystem/(1672:1672): 
+Bloques de tweet-6.csv en /sentiment:
+
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 8 en nodo Nodo1
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 8 en nodo Nodo3
+[INFO] 07:14:53:745 Filesystem/(1672:1672): 
+Bloques de tweet-7.csv en /sentiment:
+
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 9 en nodo Nodo3
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 9 en nodo Nodo1
+[INFO] 07:14:53:745 Filesystem/(1672:1672): 
+Bloques de tweet-8.csv en /sentiment:
+
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 10 en nodo Nodo1
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 10 en nodo Nodo3
+[INFO] 07:14:53:745 Filesystem/(1672:1672): 
+Bloques de tweet-9.csv en /sentiment:
+
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 11 en nodo Nodo3
+[INFO] 07:14:53:745 Filesystem/(1672:1672): Bloque de datos 1 en bloque 11 en nodo Nodo1
+[INFO] 07:14:53:746 Filesystem/(1672:1672): 
+Bloques de tweet-10.csv en /sentiment:
+
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 12 en nodo Nodo1
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 12 en nodo Nodo3
+[INFO] 07:14:53:746 Filesystem/(1672:1672): 
+Bloques de tweet-11.csv en /sentiment:
+
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 13 en nodo Nodo3
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 13 en nodo Nodo1
+[INFO] 07:14:53:746 Filesystem/(1672:1672): 
+Bloques de tweet-12.csv en /sentiment:
+
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 14 en nodo Nodo1
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 14 en nodo Nodo3
+[INFO] 07:14:53:746 Filesystem/(1672:1672): 
+Bloques de tweet-13.csv en /sentiment:
+
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 15 en nodo Nodo3
+[INFO] 07:14:53:746 Filesystem/(1672:1672): Bloque de datos 1 en bloque 15 en nodo Nodo1

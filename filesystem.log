@@ -1,0 +1,412 @@
+[INFO] 02:37:01:31 Filesystem/(1191:1191): Iniciando filesystem...
+
+[INFO] 02:37:01:40 Filesystem/(1191:1191): Filesystem iniciado.
+
+[INFO] 02:37:06:157 Filesystem/(1191:1191): IVO conectado.
+
+[INFO] 02:37:10:684 Filesystem/(1191:1194): IVO desconectado.
+
+[INFO] 02:52:40:491 Filesystem/(1240:1240): Iniciando filesystem...
+
+[INFO] 02:52:40:547 Filesystem/(1240:1240): Filesystem iniciado.
+
+[INFO] 02:52:53:21 Filesystem/(1243:1243): Iniciando filesystem...
+
+[INFO] 02:52:53:28 Filesystem/(1243:1243): Filesystem iniciado.
+
+[INFO] 02:53:52:945 Filesystem/(1245:1245): Iniciando filesystem...
+
+[INFO] 02:53:52:953 Filesystem/(1245:1245): Filesystem iniciado.
+
+[INFO] 02:55:15:34 Filesystem/(1245:1245): NODO1 conectado.
+
+[INFO] 02:55:15:351 Filesystem/(1245:1245): NODO2 conectado.
+
+[INFO] 02:55:17:768 Filesystem/(1245:1245): Nodo3 conectado.
+
+[INFO] 02:55:25:306 Filesystem/(1245:1245): Nodo4 conectado.
+
+[INFO] 02:55:25:309 Filesystem/(1245:1245): Conexión inicial de nodos completa.
+
+[INFO] 02:56:13:180 Filesystem/(1245:1245): Espacio total: 0MB utilizados de 400MB.
+.
+[INFO] 02:58:20:959 Filesystem/(1245:1245): gutenberg.txt agregado exitosamente.
+
+[INFO] 03:00:16:627 Filesystem/(1245:1245): linux.txt agregado exitosamente.
+
+[INFO] 03:00:39:957 Filesystem/(1245:1245): Espacio total: 180MB utilizados de 400MB.
+.
+[INFO] 03:01:41:365 Filesystem/(1245:1275): NODO2 desconectado.
+
+[INFO] 03:01:41:678 Filesystem/(1245:1274): NODO1 desconectado.
+
+[INFO] 03:01:43:106 Filesystem/(1245:1269): Nodo3 desconectado.
+
+[INFO] 03:01:45:597 Filesystem/(1245:1276): Nodo4 desconectado.
+
+[INFO] 03:01:50:174 Filesystem/(1288:1288): Iniciando filesystem...
+
+[INFO] 03:01:50:182 Filesystem/(1288:1288): Filesystem iniciado.
+
+[INFO] 03:02:00:700 Filesystem/(1288:1288): NODO1 reconectado.
+
+[INFO] 03:02:04:394 Filesystem/(1288:1288): Nodo3 reconectado.
+
+[INFO] 03:02:06:596 Filesystem/(1288:1288): Nodo4 reconectado.
+
+[INFO] 03:02:08:477 Filesystem/(1288:1288): NODO2 reconectado.
+
+[INFO] 03:02:08:484 Filesystem/(1288:1288): Conexión inicial de nodos completa.
+
+[INFO] 03:03:12:572 Filesystem/(1288:1292): NODO2 desconectado.
+
+[INFO] 03:03:53:452 Filesystem/(1288:1288): Espacio total: 180MB utilizados de 400MB.
+.
+[INFO] 03:03:59:736 Filesystem/(1288:1290): Nodo3 desconectado.
+
+[INFO] 03:04:03:549 Filesystem/(1294:1294): Iniciando filesystem...
+
+[INFO] 03:04:03:563 Filesystem/(1294:1294): Filesystem iniciado.
+
+[INFO] 03:06:06:662 Filesystem/(1296:1296): Iniciando filesystem...
+
+[INFO] 03:06:06:677 Filesystem/(1296:1296): Filesystem iniciado.
+
+[INFO] 03:06:09:49 Filesystem/(1296:1296): NODO2 reconectado.
+
+[INFO] 03:06:09:421 Filesystem/(1296:1296): Nodo3 reconectado.
+
+[INFO] 03:06:10:499 Filesystem/(1296:1296): NODO1 reconectado.
+
+[INFO] 03:06:11:332 Filesystem/(1296:1296): Nodo4 reconectado.
+
+[INFO] 03:06:11:349 Filesystem/(1296:1296): Conexión inicial de nodos completa.
+
+[INFO] 03:12:54:333 Filesystem/(1296:1301): Archivo textos-comb.txt agregado al filesystem en /output/job2y3.
+
+[INFO] 03:13:48:595 Filesystem/(1296:1301): Archivo textos-nocomb.txt agregado al filesystem en /output/job2y3.
+
+[INFO] 03:15:39:597 Filesystem/(1296:1296): Espacio total: 300MB utilizados de 400MB.
+.
+[INFO] 03:17:00:157 Filesystem/(1296:1296): Operación de agregado de linux.txt abortada.
+
+[INFO] 03:19:18:523 Filesystem/(1296:1296): Espacio total: 300MB utilizados de 400MB.
+.
+[INFO] 03:20:49:395 Filesystem/(1296:1328): NODO1 desconectado.
+
+[INFO] 03:20:50:823 Filesystem/(1296:1318): NODO2 desconectado.
+
+[INFO] 03:21:05:649 Filesystem/(1296:1329): Nodo3 desconectado.
+
+[INFO] 03:21:09:505 Filesystem/(1296:1330): Nodo4 desconectado.
+
+[INFO] 03:21:46:224 Filesystem/(1339:1339): Iniciando filesystem...
+
+[INFO] 03:21:46:235 Filesystem/(1339:1339): Filesystem iniciado.
+
+[INFO] 03:24:10:88 Filesystem/(1432:1432): Iniciando filesystem...
+
+[INFO] 03:24:10:100 Filesystem/(1432:1432): Filesystem iniciado.
+
+[INFO] 03:24:11:860 Filesystem/(1432:1432): Nodo3 conectado.
+
+[INFO] 03:24:15:51 Filesystem/(1432:1432): Nodo4 conectado.
+
+[INFO] 03:24:16:129 Filesystem/(1432:1432): Nodo2 conectado.
+
+[INFO] 03:24:26:176 Filesystem/(1432:1432): Nodo1 conectado.
+
+[INFO] 03:24:26:178 Filesystem/(1432:1432): Conexión inicial de nodos completa.
+
+[INFO] 03:24:32:498 Filesystem/(1432:1432): Filesystem iniciado.
+
+[INFO] 03:24:34:123 Filesystem/(1432:1432): Espacio total: 0MB utilizados de 8192MB.
+.
+[INFO] 03:26:19:509 Filesystem/(1432:1432): linux.txt agregado exitosamente.
+
+[INFO] 03:28:53:708 Filesystem/(1432:1432): kernel.txt agregado exitosamente.
+
+[INFO] 03:29:51:315 Filesystem/(1432:1432): gutenberg.txt agregado exitosamente.
+
+[INFO] 03:30:55:639 Filesystem/(1432:1432): tweet-1.csv agregado exitosamente.
+
+[INFO] 03:31:43:129 Filesystem/(1432:1432): tweet-2.csv agregado exitosamente.
+
+[INFO] 03:32:37:865 Filesystem/(1432:1432): tweet-3.csv agregado exitosamente.
+
+[INFO] 03:33:35:28 Filesystem/(1432:1432): tweet-4.csv agregado exitosamente.
+
+[INFO] 03:34:09:636 Filesystem/(1432:1432): tweet-5.csv agregado exitosamente.
+
+[INFO] 03:34:56:821 Filesystem/(1432:1432): tweet-6.csv agregado exitosamente.
+
+[INFO] 03:35:53:70 Filesystem/(1432:1432): tweet-7.csv agregado exitosamente.
+
+[INFO] 03:36:49:865 Filesystem/(1432:1432): tweet-8.csv agregado exitosamente.
+
+[INFO] 03:37:34:456 Filesystem/(1432:1432): tweet-9.csv agregado exitosamente.
+
+[INFO] 03:38:26:242 Filesystem/(1432:1432): tweet-10.csv agregado exitosamente.
+
+[INFO] 03:39:40:502 Filesystem/(1432:1432): tweet-11.csv agregado exitosamente.
+
+[INFO] 03:40:29:958 Filesystem/(1432:1432): tweet-12.csv agregado exitosamente.
+
+[INFO] 03:41:05:219 Filesystem/(1432:1432): tweet-13.csv agregado exitosamente.
+
+[INFO] 03:53:57:398 Filesystem/(1432:1563): Nodo1 desconectado.
+
+[INFO] 03:53:59:598 Filesystem/(1432:1565): Nodo3 desconectado.
+
+[INFO] 03:54:00:452 Filesystem/(1432:1564): Nodo2 desconectado.
+
+[INFO] 03:54:12:633 Filesystem/(1432:1559): Nodo4 desconectado.
+
+[INFO] 04:38:13:310 Filesystem/(1207:1207): Iniciando filesystem...
+
+[INFO] 05:46:26:380 Filesystem/(1232:1232): Iniciando filesystem...
+
+[INFO] 05:46:29:271 Filesystem/(1232:1232): Nodo4 conectado.
+
+[INFO] 05:46:29:452 Filesystem/(1232:1232): Nodo3 conectado.
+
+[INFO] 05:46:30:820 Filesystem/(1232:1232): Nodo1 conectado.
+
+[INFO] 05:46:33:314 Filesystem/(1232:1232): Nodo2 conectado.
+
+[INFO] 05:46:33:325 Filesystem/(1232:1232): Conexión inicial de nodos completa.
+
+[INFO] 05:46:45:592 Filesystem/(1232:1232): Filesystem iniciado.
+
+[INFO] 05:53:12:878 Filesystem/(1232:1232): kernel.txt agregado exitosamente.
+
+[INFO] 05:58:35:325 Filesystem/(1232:1232): linux.txt agregado exitosamente.
+
+[INFO] 06:01:39:147 Filesystem/(1232:1232): gutenberg.txt agregado exitosamente.
+
+[INFO] 06:01:43:463 Filesystem/(1232:1232): Espacio total: 300MB utilizados de 6144MB.
+.
+[INFO] 06:04:06:760 Filesystem/(1232:1232): tweet-1.csv agregado exitosamente.
+
+[INFO] 06:06:39:129 Filesystem/(1232:1232): tweet-2.csv agregado exitosamente.
+
+[INFO] 06:06:40:719 Filesystem/(1232:1312): Nodo4 desconectado.
+
+[INFO] 06:09:15:848 Filesystem/(1232:1232): tweet-3.csv agregado exitosamente.
+
+[INFO] 06:12:25:520 Filesystem/(1232:1232): tweet-4.csv agregado exitosamente.
+
+[INFO] 06:16:28:896 Filesystem/(1232:1232): tweet-5.csv agregado exitosamente.
+
+[INFO] 06:19:28:908 Filesystem/(1232:1232): tweet-6.csv agregado exitosamente.
+
+[INFO] 06:22:12:797 Filesystem/(1232:1232): tweet-7.csv agregado exitosamente.
+
+[INFO] 06:25:12:822 Filesystem/(1232:1232): tweet-8.csv agregado exitosamente.
+
+[INFO] 06:27:37:177 Filesystem/(1232:1232): tweet-9.csv agregado exitosamente.
+
+[INFO] 06:30:08:714 Filesystem/(1232:1232): tweet-10.csv agregado exitosamente.
+
+[INFO] 06:32:32:128 Filesystem/(1232:1232): tweet-11.csv agregado exitosamente.
+
+[INFO] 06:35:31:6 Filesystem/(1232:1232): tweet-12.csv agregado exitosamente.
+
+[INFO] 06:38:46:855 Filesystem/(1232:1232): tweet-13.csv agregado exitosamente.
+
+[INFO] 07:02:18:951 Filesystem/(1232:1232): Espacio total: 1060MB utilizados de 6144MB.
+.
+[INFO] 07:03:22:871 Filesystem/(1232:1232): Nodo4 reconectado.
+
+[INFO] 07:04:12:273 Filesystem/(1232:1494): Nodo1 desconectado.
+
+[INFO] 07:04:20:665 Filesystem/(1232:1232): Nodo1 reconectado.
+
+[INFO] 07:04:50:514 Filesystem/(1232:1612): Nodo4 desconectado.
+
+[INFO] 07:04:55:523 Filesystem/(1232:1232): Espacio total: 1060MB utilizados de 6144MB.
+.
+[INFO] 07:04:59:16 Filesystem/(1232:1495): Nodo3 desconectado.
+
+[INFO] 07:05:01:513 Filesystem/(1232:1621): Nodo1 desconectado.
+
+[INFO] 07:05:02:574 Filesystem/(1232:1491): Nodo2 desconectado.
+
+[INFO] 07:05:07:993 Filesystem/(1629:1629): Iniciando filesystem...
+
+[INFO] 07:05:10:583 Filesystem/(1629:1629): Nodo4 reconectado.
+
+[INFO] 07:06:40:793 Filesystem/(1629:1629): Nodo3 reconectado.
+
+[INFO] 07:06:40:961 Filesystem/(1629:1629): Nodo1 reconectado.
+
+[INFO] 07:06:43:221 Filesystem/(1629:1629): Nodo2 reconectado.
+
+[INFO] 07:06:43:230 Filesystem/(1629:1629): Conexión inicial de nodos completa.
+
+[INFO] 07:06:50:742 Filesystem/(1629:1629): Filesystem iniciado.
+
+[INFO] 07:08:00:177 Filesystem/(1629:1629): Nodo1 reconectado.
+
+[INFO] 07:10:04:815 Filesystem/(1629:1649): Nodo1 desconectado.
+
+[INFO] 07:10:05:709 Filesystem/(1629:1635): Nodo2 desconectado.
+
+[INFO] 07:10:10:377 Filesystem/(1629:1633): Nodo3 desconectado.
+
+[INFO] 07:10:25:439 Filesystem/(1655:1655): Iniciando filesystem...
+
+[INFO] 07:10:52:560 Filesystem/(1658:1658): Iniciando filesystem...
+
+[INFO] 07:11:28:593 Filesystem/(1672:1672): Iniciando filesystem...
+
+[INFO] 07:11:29:463 Filesystem/(1672:1672): Nodo4 reconectado.
+
+[INFO] 07:11:34:420 Filesystem/(1672:1672): Nodo3 reconectado.
+
+[INFO] 07:11:37:488 Filesystem/(1672:1672): Nodo1 reconectado.
+
+[INFO] 07:11:39:635 Filesystem/(1672:1672): Nodo2 reconectado.
+
+[INFO] 07:11:39:654 Filesystem/(1672:1672): Conexión inicial de nodos completa.
+
+[INFO] 07:11:43:604 Filesystem/(1672:1672): Filesystem iniciado.
+
+[INFO] 07:12:44:678 Filesystem/(1672:1678): Nodo2 desconectado.
+
+[INFO] 07:14:41:374 Filesystem/(1672:1672): Espacio total: 1060MB utilizados de 6144MB.
+.
+[INFO] 07:14:51:776 Filesystem/(1672:1672): Espacio total: 740MB utilizados de 5120MB.
+.
+[INFO] 07:15:15:836 Filesystem/(1672:1672): Espacio total: 740MB utilizados de 5120MB.
+.
+[INFO] 07:15:19:563 Filesystem/(1672:1675): Nodo4 desconectado.
+
+[INFO] 07:15:19:658 Filesystem/(1672:1676): Nodo3 desconectado.
+
+[INFO] 07:15:40:702 Filesystem/(1705:1705): Iniciando filesystem...
+
+[INFO] 07:15:41:967 Filesystem/(1705:1705): Nodo4 reconectado.
+
+[INFO] 07:16:02:542 Filesystem/(1709:1709): Iniciando filesystem...
+
+[INFO] 07:16:51:530 Filesystem/(1712:1712): Iniciando filesystem...
+
+[INFO] 07:16:52:286 Filesystem/(1712:1712): Nodo4 reconectado.
+
+[INFO] 07:24:13:48 Filesystem/(1853:1853): Iniciando filesystem...
+
+[INFO] 07:25:48:43 Filesystem/(1870:1870): Iniciando filesystem...
+
+[INFO] 07:25:48:637 Filesystem/(1870:1870): Nodo4 reconectado.
+
+[INFO] 07:26:42:412 Filesystem/(1883:1883): Iniciando filesystem...
+
+[INFO] 07:27:01:809 Filesystem/(1886:1886): Iniciando filesystem...
+
+[INFO] 07:27:02:74 Filesystem/(1886:1886): Nodo4 conectado.
+
+[INFO] 07:27:06:223 Filesystem/(1886:1886): Nodo3 conectado.
+
+[INFO] 07:27:15:666 Filesystem/(1886:1886): Nodo1 conectado.
+
+[INFO] 07:27:17:576 Filesystem/(1886:1886): Nodo2 conectado.
+
+[INFO] 07:27:17:606 Filesystem/(1886:1886): Conexión inicial de nodos completa.
+
+[INFO] 07:27:19:899 Filesystem/(1886:1886): Filesystem iniciado.
+
+[INFO] 07:31:40:631 Filesystem/(1886:1886): gutenberg.txt agregado exitosamente.
+
+[INFO] 07:32:08:720 Filesystem/(1886:1899): Nodo3 desconectado.
+
+[INFO] 07:32:13:320 Filesystem/(1886:1897): Nodo1 desconectado.
+
+[INFO] 07:32:23:487 Filesystem/(1886:1886): Nodo3 reconectado.
+
+[INFO] 07:32:27:167 Filesystem/(1886:1886): Nodo1 reconectado.
+
+[INFO] 07:32:47:67 Filesystem/(1886:1900): Nodo3 desconectado.
+
+[INFO] 07:32:54:258 Filesystem/(1886:1901): Nodo1 desconectado.
+
+[INFO] 07:32:54:900 Filesystem/(1886:1889): Nodo4 desconectado.
+
+[INFO] 07:32:55:110 Filesystem/(1886:1898): Nodo2 desconectado.
+
+[INFO] 07:33:00:931 Filesystem/(1903:1903): Iniciando filesystem...
+
+[INFO] 07:33:01:776 Filesystem/(1903:1903): Nodo4 reconectado.
+
+[INFO] 07:33:03:963 Filesystem/(1903:1903): Nodo3 reconectado.
+
+[INFO] 07:33:04:120 Filesystem/(1903:1903): Nodo1 reconectado.
+
+[INFO] 07:33:05:670 Filesystem/(1903:1903): Nodo2 reconectado.
+
+[INFO] 07:33:05:700 Filesystem/(1903:1903): Conexión inicial de nodos completa.
+
+[INFO] 07:33:09:788 Filesystem/(1903:1903): Filesystem iniciado.
+
+[INFO] 07:33:32:638 Filesystem/(1903:1906): Nodo4 desconectado.
+
+[INFO] 07:33:32:661 Filesystem/(1903:1908): Nodo1 desconectado.
+
+[INFO] 07:33:33:121 Filesystem/(1903:1909): Nodo2 desconectado.
+
+[INFO] 07:33:35:789 Filesystem/(1903:1907): Nodo3 desconectado.
+
+[INFO] 07:35:15:818 Filesystem/(1922:1922): Iniciando filesystem...
+
+[INFO] 07:35:16:428 Filesystem/(1922:1922): Nodo1 reconectado.
+
+[INFO] 07:35:16:546 Filesystem/(1922:1922): Nodo4 reconectado.
+
+[INFO] 07:35:18:193 Filesystem/(1922:1922): Nodo2 reconectado.
+
+[INFO] 07:35:18:243 Filesystem/(1922:1922): Nodo3 reconectado.
+
+[INFO] 07:35:18:257 Filesystem/(1922:1922): Conexión inicial de nodos completa.
+
+[INFO] 07:35:20:393 Filesystem/(1922:1922): Filesystem iniciado.
+
+[INFO] 07:35:30:239 Filesystem/(1922:1924): Nodo1 desconectado.
+
+[INFO] 07:35:39:145 Filesystem/(1922:1922): Nodo1 reconectado.
+
+[INFO] 07:36:54:920 Filesystem/(1922:1928): Nodo3 desconectado.
+
+[INFO] 07:37:30:354 Filesystem/(1922:1930): Nodo1 desconectado.
+
+[INFO] 07:37:33:198 Filesystem/(1922:1927): Nodo2 desconectado.
+
+[INFO] 07:38:45:574 Filesystem/(1922:1922): Espacio total: 60MB utilizados de 6144MB.
+.
+[INFO] 07:42:52:130 Filesystem/(1922:1926): Nodo4 desconectado.
+
+[INFO] 07:45:46:273 Filesystem/(1932:1932): Iniciando filesystem...
+
+[INFO] 07:45:47:54 Filesystem/(1932:1932): Nodo4 reconectado.
+
+[INFO] 07:45:51:959 Filesystem/(1932:1932): Nodo3 reconectado.
+
+[INFO] 07:45:53:156 Filesystem/(1932:1932): Nodo1 reconectado.
+
+[INFO] 07:45:56:855 Filesystem/(1932:1932): Nodo2 reconectado.
+
+[INFO] 07:45:56:881 Filesystem/(1932:1932): Conexión inicial de nodos completa.
+
+[INFO] 07:46:02:315 Filesystem/(1932:1932): Filesystem iniciado.
+
+[INFO] 07:51:49:994 Filesystem/(1932:1932): linux.txt agregado exitosamente.
+
+[INFO] 07:52:05:314 Filesystem/(1932:1950): Nodo2 desconectado.
+
+[INFO] 07:52:10:763 Filesystem/(1932:1932): Nodo2 reconectado.
+
+[INFO] 07:57:33:624 Filesystem/(1932:1939): Archivo textos-nocomb.txt agregado al filesystem en /output/job2y3.
+
+[INFO] 08:01:11:466 Filesystem/(1932:1965): Nodo1 desconectado.
+
+[INFO] 08:01:13:262 Filesystem/(1932:1964): Nodo4 desconectado.
+
